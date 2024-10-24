@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Programa\ParcialPoo\bin\Debug\net6.0\ParcialPoo.exe
+C:\Users\Usuario\source\repos\Programa\ParcialPoo\bin\Debug\net6.0\ParcialPoo.deps.json
+C:\Users\Usuario\source\repos\Programa\ParcialPoo\bin\Debug\net6.0\ParcialPoo.runtimeconfig.json
+C:\Users\Usuario\source\repos\Programa\ParcialPoo\bin\Debug\net6.0\ParcialPoo.dll
+C:\Users\Usuario\source\repos\Programa\ParcialPoo\bin\Debug\net6.0\ParcialPoo.pdb
+C:\Users\Usuario\source\repos\Programa\ParcialPoo\obj\Debug\net6.0\ParcialPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Programa\ParcialPoo\obj\Debug\net6.0\ParcialPoo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Programa\ParcialPoo\obj\Debug\net6.0\ParcialPoo.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Programa\ParcialPoo\obj\Debug\net6.0\ParcialPoo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Programa\ParcialPoo\obj\Debug\net6.0\ParcialPoo.dll
+C:\Users\Usuario\source\repos\Programa\ParcialPoo\obj\Debug\net6.0\refint\ParcialPoo.dll
+C:\Users\Usuario\source\repos\Programa\ParcialPoo\obj\Debug\net6.0\ParcialPoo.pdb
+C:\Users\Usuario\source\repos\Programa\ParcialPoo\obj\Debug\net6.0\ParcialPoo.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Programa\ParcialPoo\obj\Debug\net6.0\ref\ParcialPoo.dll
