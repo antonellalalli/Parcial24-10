@@ -1,7 +1,7 @@
 # Parcial24-10
 Problema 1:
 1. No, no es necesario, ya que estos no cambiaran con el tiempo.
-2. Seria util utilizar una lista, pero no estrictamente disponible, ya que se pueden utilizar colecciones como diccionarios para tal caso.
+2. Seria util utilizar una lista, pero no estrictamente, ya que se pueden utilizar colecciones como diccionarios para tal caso.
 
 Problema 2:
 1. No es necesario aplicar persistencia ya que estas actividades no reciben cambios constantes-.
